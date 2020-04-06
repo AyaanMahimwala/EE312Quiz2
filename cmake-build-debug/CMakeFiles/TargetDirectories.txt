@@ -1,0 +1,3 @@
+/Users/ayaanmahimwala/CLionProjects/EE312Quiz2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ayaanmahimwala/CLionProjects/EE312Quiz2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ayaanmahimwala/CLionProjects/EE312Quiz2/cmake-build-debug/CMakeFiles/EE312Quiz2.dir
